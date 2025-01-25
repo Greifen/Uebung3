@@ -2,5 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Uebung3</groupId>
   <artifactId>Uebung3</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.7-SNAPSHOT</version>
+  <distributionManagement>
+  <repository>
+    <id>github</id>
+    <url>https://maven.pkg.github.com/Greifen/Uebung3></url>
+  </repository>
+</distributionManagement>
 </project>
